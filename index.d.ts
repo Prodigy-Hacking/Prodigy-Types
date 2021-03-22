@@ -1,3 +1,1 @@
-export interface Test {
-	
-}
+export * from "./types/hack";
