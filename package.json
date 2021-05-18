@@ -3,7 +3,8 @@
 	"version": "1.0.0",
 	"description": "",
 	"files": [
-		"index.d.ts"
+		"index.d.ts",
+		"types/*"
 	],
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
